@@ -1,0 +1,62 @@
+cookie:
+  expiry_days: 30
+  key: humand-sales-insights-secret-cookie-key-2024
+  name: humand_insights_auth
+credentials:
+  usernames:
+    augusto.ferrer:
+      email: augusto.ferrer@humand.co
+      failed_login_attempts: 0
+      first_name: Augusto
+      last_name: Ferrer
+      logged_in: false
+      password: $2b$12$NamiW6VbImi8tAG/vV26uOn06JAWMXBtAb3BRTmqEg.3Luu/.Z6a.
+      roles:
+      - viewer
+    juan.diego.alcocer:
+      email: juan.diego.alcocer@humand.co
+      failed_login_attempts: 0
+      first_name: Juandi
+      last_name: Alcocer
+      logged_in: false
+      password: $2b$12$twTNt.4ruJEL0fxo.BMZvOSV/Ls5uq67669Lm2IE7SPn0BsQma2CO
+      roles:
+      - viewer
+    juanba.scelzi:
+      email: juanba.scelzi@humand.co
+      failed_login_attempts: 0
+      first_name: Juanba
+      last_name: Scelzi
+      logged_in: false
+      password: $2b$12$XZj.bOdEV3c7mk66ZRfeaO6AaMWU93l/vol7zGn/ieXUtnYjqkrw6
+      roles:
+      - admin
+    manuela.cavallo:
+      email: manuela.cavallo@humand.co
+      failed_login_attempts: 0
+      first_name: Manuela
+      last_name: Cavallo
+      logged_in: false
+      password: $2b$12$JC7uxRhAda/Q.zF6SunNrOWlBdipJjufxh5T6shz1yvYbgVHvChVG
+      roles:
+      - viewer
+    nico.cordes:
+      email: nico.cordes@humand.co
+      failed_login_attempts: 0
+      first_name: Nico
+      last_name: Cordes
+      logged_in: false
+      password: $2b$12$9zZKOOoyJg7Yl91.9cDZbedT9jHrCGfKhMOm4t0qAmdLrhbjOYId.
+      roles:
+      - viewer
+    salvador.castrobay:
+      email: salvador.castrobay@humand.co
+      failed_login_attempts: 0
+      first_name: Salvador
+      last_name: Castro Bay
+      logged_in: false
+      password: $2b$12$MgnOVLaK9uRYOKfbTXhb1eYpkIGvd28O40C7qem5Xu1N9fkjIRuA6
+      roles:
+      - admin
+pre-authorized:
+  emails: []
