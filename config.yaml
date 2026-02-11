@@ -49,6 +49,15 @@ credentials:
       password: $2b$12$9zZKOOoyJg7Yl91.9cDZbedT9jHrCGfKhMOm4t0qAmdLrhbjOYId.
       roles:
       - viewer
+    soledad.barca:
+      email: soledad.barca@humand.co
+      failed_login_attempts: 0
+      first_name: Sole
+      last_name: Barca
+      logged_in: false
+      password: $2b$12$f7MjRwBhTCHKwNUf6.pLpeeuN5ZorT4ESnGnzY2vQPbCRDtIVg4DK
+      roles:
+      - viewer
     salvador.castrobay:
       email: salvador.castrobay@humand.co
       failed_login_attempts: 0
