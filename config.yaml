@@ -58,6 +58,15 @@ credentials:
       password: $2b$12$f7MjRwBhTCHKwNUf6.pLpeeuN5ZorT4ESnGnzY2vQPbCRDtIVg4DK
       roles:
       - viewer
+    pedro:
+      email: pedro@humand.co
+      failed_login_attempts: 0
+      first_name: Pedro
+      last_name: ''
+      logged_in: false
+      password: $2b$12$c/1n09t29UpAYtu5EgFgde0PDXAJL9j.xnXQKf0rfKb1Gqs7r7rYe
+      roles:
+      - viewer
     salvador.castrobay:
       email: salvador.castrobay@humand.co
       failed_login_attempts: 0
