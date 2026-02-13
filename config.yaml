@@ -76,5 +76,68 @@ credentials:
       password: $2b$12$MgnOVLaK9uRYOKfbTXhb1eYpkIGvd28O40C7qem5Xu1N9fkjIRuA6
       roles:
       - admin
+    marcos.palacio:
+      email: marcos.palacio@humand.co
+      failed_login_attempts: 0
+      first_name: Marcos
+      last_name: Palacio
+      logged_in: false
+      password: $2b$12$ltDv46FPA.9ubL/DoOzltukjEbzGFsJLNlujg0tzg7wO64ZRAQP0G
+      roles:
+      - viewer
+    raphael.montressor:
+      email: raphael.montressor@humand.co
+      failed_login_attempts: 0
+      first_name: Raphael
+      last_name: Montressor
+      logged_in: false
+      password: $2b$12$sEYDjzIjRmbpB7hTymTIBu/oPbkOjo4BXIjFXxlYr8ZoW2Nmvfype
+      roles:
+      - viewer
+    vanina.moreira:
+      email: vanina.moreira@humand.co
+      failed_login_attempts: 0
+      first_name: Vanina
+      last_name: Moreira
+      logged_in: false
+      password: $2b$12$SN/NaA/SO2MxhdtLD5QY3.ky1YS4Soim1PqKwxArRWEtPt2Qzq7ti
+      roles:
+      - viewer
+    aimee:
+      email: aimee@humand.co
+      failed_login_attempts: 0
+      first_name: Aimee
+      last_name: ''
+      logged_in: false
+      password: $2b$12$WzTJ1rtOEf.kVZTs9Z8SNOA.mtKpweoaJfTr8bBrD/LToRHHcdKKm
+      roles:
+      - viewer
+    vivi:
+      email: vivi@humand.co
+      failed_login_attempts: 0
+      first_name: Vivi
+      last_name: ''
+      logged_in: false
+      password: $2b$12$ExvM1zGIXRnewTqtyxf6c.nVo9T1kfg4C2Ay1qhzmG3OE7Hr0yCyC
+      roles:
+      - viewer
+    luciano.paradiso:
+      email: luciano.paradiso@humand.co
+      failed_login_attempts: 0
+      first_name: Lucho
+      last_name: Paradiso
+      logged_in: false
+      password: $2b$12$JWqlgLQeV3AZld1xUJY2EOMzyYb3L7/LvIVNIJIn34CtJGt.z7yZq
+      roles:
+      - viewer
+    agustina.ini:
+      email: agustina.ini@humand.co
+      failed_login_attempts: 0
+      first_name: Agus
+      last_name: Ini
+      logged_in: false
+      password: $2b$12$FOvij58iAnm16klIGLhaE.6ke1j4jTRykc8uQF6d7LlVut4aNqS3C
+      roles:
+      - viewer
 pre-authorized:
   emails: []
