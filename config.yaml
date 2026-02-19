@@ -64,7 +64,7 @@ credentials:
       first_name: Pedro
       last_name: ''
       logged_in: false
-      password: $2b$12$c/1n09t29UpAYtu5EgFgde0PDXAJL9j.xnXQKf0rfKb1Gqs7r7rYe
+      password: $2b$12$M3tEU2DIAip.uV6SAMz7PO0NK38dKlnELb1xFxQr9jJBN05cuZf8O
       roles:
       - viewer
     salvador.castrobay:
