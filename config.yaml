@@ -54,7 +54,7 @@ credentials:
       failed_login_attempts: 0
       first_name: Juanba
       last_name: Scelzi
-      logged_in: false
+      logged_in: true
       password: $2b$12$XZj.bOdEV3c7mk66ZRfeaO6AaMWU93l/vol7zGn/ieXUtnYjqkrw6
       roles:
       - admin
